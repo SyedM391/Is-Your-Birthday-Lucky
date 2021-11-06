@@ -1,0 +1,39 @@
+:root {
+    background-color:rgb(93, 157, 165);
+}
+
+body{
+    font-family: Verdana,Tahoma, sans-serif;
+}
+
+.container{
+    width:50%;
+    margin:auto;
+    text-align: center;
+    padding:1rem;
+}
+
+h1{
+ text-align: center;
+ padding:1rem;
+ margin:1rem;
+ font-style: italic;
+}
+
+input :first-of-type,label {
+    display:block;
+    text-align: center;
+} 
+
+button{
+    display:block;
+    margin:auto;
+}
+
+label{
+    padding:1rem;
+}
+
+input {
+    margin-bottom: 1rem;
+}
